@@ -11,6 +11,5 @@ V. González and A. Ortega, "Multi-Resolution Spectral Graph Matching," 2019 IEE
 To use this method you need to download and install the following library:
 https://epfl-lts2.github.io/gspbox-html/ to plot the graphs
 
-If you have loaded point cloud data and built the graph on it, You can go through the algorithm by running MAIN.m.
-
-If you don't have data, you can use generate_graph.m file to make a pair of graphs, then play with MAIN.m.
+If graph data is available and loaded, the algorithm can be directly run in MAIN.m.
+If there is no data, generate_graph.m file can be used to make a pair of graphs.
