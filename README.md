@@ -10,9 +10,9 @@ V. González and A. Ortega, "Multi-Resolution Spectral Graph Matching," 2019 IEE
 https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8803306
 
 To use this code you need to download and install the following library:
-https://epfl-lts2.github.io/gspbox-html/ to plot the graphs
+https://epfl-lts2.github.io/gspbox-html/ to plot the graphs. We have tested this code on Matlab 2017.
 
 If graph data is available and loaded, the algorithm can be directly run in 'MAIN.m' file.
 If there is no data, 'generate_graph.m' file can be used to generate a pair of graphs.
-
+The rest of files are secondary function and must be place in the same fold as 'MAIN.m' file.
 Other graph matching algorithms we use to compare are in 'Other S.G.M algorithms' foler.
