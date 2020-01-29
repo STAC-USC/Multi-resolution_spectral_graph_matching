@@ -12,7 +12,7 @@ https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8803306
 To use this code you need to download and install the following library:
 https://epfl-lts2.github.io/gspbox-html/ to plot the graphs
 
-If graph data is available and loaded, the algorithm can be directly run in MAIN.m.
-If there is no data, generate_graph.m file can be used to generate a pair of graphs.
+If graph data is available and loaded, the algorithm can be directly run in 'MAIN.m' file.
+If there is no data, 'generate_graph.m' file can be used to generate a pair of graphs.
 
-Other graph matching algorithms are in Other S.G.M foler.
+Other graph matching algorithms we use to compare are in 'Other S.G.M algorithms' foler.
