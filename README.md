@@ -1,4 +1,4 @@
-# Multi-resolution_spectral_graph_matching
+# Multi-resolution spectral graph matching
 This function performs a graph matching algorithm explained in:
 "Spectral Graph Matching through a Multi-Resolution Approach" by
 Victor González Navarro and Antonio Ortega
